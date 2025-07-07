@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/remove.py": {
-      "runtime": "python@3.9"
-    }
-  }
-}
